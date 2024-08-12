@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-img{
+    background-image: url(../../public/img/fondo2.jpg);
+    
+}
